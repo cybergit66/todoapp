@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate",
+  "name": "todoapp",
   "version": "1.0.0",
   "description": "Simple React app",
   "main": "index.js",
@@ -40,5 +40,13 @@
     "script-loader": "^0.6.1",
     "style-loader": "^0.13.0",
     "webpack": "^1.12.13"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybergit66/todoapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cybergit66/todoapp/issues"
+  },
+  "homepage": "https://github.com/cybergit66/todoapp#readme"
 }
